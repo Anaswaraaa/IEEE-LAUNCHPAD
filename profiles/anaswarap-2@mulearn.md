@@ -6,6 +6,7 @@ I'm a Computer Science and Engineering graduate with a strong passion for coding
 
 ## Portfolio Highlights
 [Linkedin](https://www.linkedin.com/in/anaswara-p-728892215/)
+
 [GitHub](https://github.com/Anaswaraaa)
 
 
